@@ -5,4 +5,4 @@
 部分截图
 ----------------
 播放视频
-![Image text](https://github.com/qiyuebuku/img-folder/blob/master/DouBanMovie/%E6%89%B9%E6%B3%A8%202019-05-17%20144121.png)
+![Image text](https://github.com/qiyuebuku/img-folder/blob/master/DongGuan/%E6%89%B9%E6%B3%A8%202019-05-17%20155927.png)
